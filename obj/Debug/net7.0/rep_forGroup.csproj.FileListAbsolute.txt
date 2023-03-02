@@ -1,0 +1,15 @@
+/Users/khrystya/Desktop/group_rep/rep_forGroup/bin/Debug/net7.0/rep_forGroup
+/Users/khrystya/Desktop/group_rep/rep_forGroup/bin/Debug/net7.0/rep_forGroup.deps.json
+/Users/khrystya/Desktop/group_rep/rep_forGroup/bin/Debug/net7.0/rep_forGroup.runtimeconfig.json
+/Users/khrystya/Desktop/group_rep/rep_forGroup/bin/Debug/net7.0/rep_forGroup.dll
+/Users/khrystya/Desktop/group_rep/rep_forGroup/bin/Debug/net7.0/rep_forGroup.pdb
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.csproj.AssemblyReference.cache
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.AssemblyInfoInputs.cache
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.AssemblyInfo.cs
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.csproj.CoreCompileInputs.cache
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.dll
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/refint/rep_forGroup.dll
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.pdb
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/rep_forGroup.genruntimeconfig.cache
+/Users/khrystya/Desktop/group_rep/rep_forGroup/obj/Debug/net7.0/ref/rep_forGroup.dll

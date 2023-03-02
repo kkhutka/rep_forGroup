@@ -1,6 +1,9 @@
 ﻿using System;
 
 class MainClass {
+  int Addition(int a, int b) {
+	  return a+b;
+  }  
   static void Main(string[] args) {
     // Read the first integer from the user
     Console.Write("Enter the first integer: ");
@@ -18,7 +21,7 @@ class MainClass {
     int result = 0;
     switch (op) {
       case '+':
-        //result = call_your_funtion;
+        result = Addition(num1,num2);
         break;
       case '-':
         //result = call_your_funtion;
