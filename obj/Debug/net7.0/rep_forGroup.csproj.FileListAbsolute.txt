@@ -1,0 +1,15 @@
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\bin\Debug\net7.0\rep_forGroup.exe
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\bin\Debug\net7.0\rep_forGroup.deps.json
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\bin\Debug\net7.0\rep_forGroup.runtimeconfig.json
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\bin\Debug\net7.0\rep_forGroup.dll
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\bin\Debug\net7.0\rep_forGroup.pdb
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.AssemblyInfo.cs
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.dll
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\refint\rep_forGroup.dll
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.pdb
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\rep_forGroup.genruntimeconfig.cache
+C:\Users\alexc\Desktop\studying\GitpracticeGroup\rep_forGroup\obj\Debug\net7.0\ref\rep_forGroup.dll
