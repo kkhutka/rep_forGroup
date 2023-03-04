@@ -3,6 +3,11 @@
 class MainClass {
 
 
+  static int minus(int a,int b){
+    return a-b;
+  }
+
+
   static int mult(int a, int b)
   {
     return a*b;
@@ -15,6 +20,7 @@ class MainClass {
     static  int Addition(int a, int b) {
 	  return a+b;
     }
+
 
 
 
@@ -38,7 +44,7 @@ class MainClass {
         //result = call_your_funtion;
         break;
       case '-':
-        //result = call_your_funtion;
+        result = minus(num1,num2);
         break;
       case '*':
         result = mult(num1,num2);
