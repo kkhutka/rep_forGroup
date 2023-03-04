@@ -41,7 +41,7 @@ class MainClass {
     int result = 0;
     switch (op) {
       case '+':
-        //result = call_your_funtion;
+        result = Addition(num1,num2);
         break;
       case '-':
         result = minus(num1,num2);
