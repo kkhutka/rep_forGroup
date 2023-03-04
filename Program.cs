@@ -2,9 +2,28 @@
 
 class MainClass {
 
+
   static int minus(int a,int b){
     return a-b;
   }
+
+
+  static int mult(int a, int b)
+  {
+    return a*b;
+  }
+
+    static double div(int a,int b) {
+        return a / b;
+    }
+
+    static  int Addition(int a, int b) {
+	  return a+b;
+    }
+
+
+
+
   static void Main(string[] args) {
     // Read the first integer from the user
     Console.Write("Enter the first integer: ");
@@ -28,10 +47,10 @@ class MainClass {
         result = minus(num1,num2);
         break;
       case '*':
-        //result = call_your_funtion;
+        result = mult(num1,num2);
         break;
       case '/':
-        //result = call_your_funtion;
+        result = div(num1, num2);
         break;
       default:
         Console.WriteLine("Invalid operator entered.");
