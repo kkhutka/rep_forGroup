@@ -1,9 +1,17 @@
 ﻿using System;
 
 class MainClass {
+
+
+  static int mult(int a, int b)
+  {
+    return a*b;
+  }
+
     static double div(int a,int b) {
         return a / b;
     }
+
 
 
   static void Main(string[] args) {
@@ -29,7 +37,7 @@ class MainClass {
         //result = call_your_funtion;
         break;
       case '*':
-        //result = call_your_funtion;
+        result = mult(num1,num2);
         break;
       case '/':
         result = div(num1, num2);
