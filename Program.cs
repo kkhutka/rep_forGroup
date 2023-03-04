@@ -1,6 +1,11 @@
 ﻿using System;
 
 class MainClass {
+
+  static int mult(int a, int b)
+  {
+    return a*b;
+  }
   static void Main(string[] args) {
     // Read the first integer from the user
     Console.Write("Enter the first integer: ");
@@ -24,7 +29,7 @@ class MainClass {
         //result = call_your_funtion;
         break;
       case '*':
-        //result = call_your_funtion;
+        result = mult(num1,num2);
         break;
       case '/':
         //result = call_your_funtion;
